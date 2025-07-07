@@ -1,4 +1,3 @@
-```markdown
 # Hi there, I'm Clint Jonathan Galendez! 👋
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/clintgalendez) [<img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />](https://clint-galendez-portfolio.vercel.app/) [<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:galendez.clintjonathan@gmail.com)
@@ -64,5 +63,3 @@
 I'm always open to connecting and discussing new opportunities. Feel free to reach out!
 
 [<img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/clintgalendez) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/clintgalendez) [<img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />](https://clint-galendez-portfolio.vercel.app/)
-
-```
