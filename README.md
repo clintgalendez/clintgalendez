@@ -6,17 +6,6 @@ I'm a Magna Cum Laude graduate with a B.S. in Computer Science from Xavier Unive
 
 ---
 
-### 💼 Professional Experience
-
-**Frontend Developer Intern** @ BlastAsia Incorporated (Remote) | *Sept 2024 - Nov 2024*
-
-* I translated over 40 Figma designs, including individual components and full-page mockups, into high-fidelity, functional Angular code for key product features.
-* I contributed 15+ reusable components to the company's shared Angular library, which helped to enforce design consistency and streamline future development efforts.
-* I applied responsive design principles using CSS3 and SASS to ensure seamless functionality and visual fidelity across all devices. This team effort led to a 10% increase in user engagement on mobile devices.
-* I actively participated in Agile ceremonies like daily stand-ups and sprint reviews, consistently delivering assigned tasks on schedule and exceeding the team's average sprint velocity by 10%.
-
----
-
 ### 🛠️ Tech Stack
 
 | Category | Technologies |
